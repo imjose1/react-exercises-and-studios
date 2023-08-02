@@ -1,7 +1,19 @@
 .choresText {
    color: black;
+   font-size: 1.3vw;
+   color: red;
+
 }
 
 .choresHeading {
-   color: black;
+   color: rgb(50, 17, 241);
+   font-size: 3em;
+   font-family: italic;
+}
+.ChoresList{
+   color: rgb(50, 17, 241);
+   font-size: 2em;
+   font-family: italic;
+   text-align: center;
+   list-style: none;
 }
